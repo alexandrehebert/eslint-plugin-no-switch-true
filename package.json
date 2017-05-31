@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-no-switch-true",
+  "version": "1.0.0",
+  "description": "No switch true",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "3.19.0"
+  },
+  "author": "Alexandre HEBERT <hebert.alex@gmail.com>",
+  "license": "ISC"
+}
